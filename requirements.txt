@@ -1,3 +1,4 @@
 matplotlib==3.5.2
 shiny==0.2.4
 yfinance==0.2.9
+Jinja2==3.1.2
